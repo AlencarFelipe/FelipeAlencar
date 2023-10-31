@@ -1,29 +1,25 @@
-"""Projeto agenda, classe contato - nome, telefone e email*Atributos obrigatorios* e
-Classe agenda - Metodo construtor que recebe uma lista de contatos vazia. *Metodo -Adicionar contato,
-lista contatos e buscar contatos, deletar contatos"""
+# Crie uma classe "animal" com um metodo "emitir_som"
+# Cire duas subclasses, "Cachorro" e "Gato" , que sobrescrevam o método "emitir_som()"
+# para exibir "au au" e "miau" , respectivamente, em seguida ,crie instancias de ambas as subclasses echame o metodo "emitir som() nelas"
 
-class Agenda:
-    def __init__ (self):
-        self.contatos = []
+class Animal:
+    def emitir_som(self):
+        pass
 
-    def adicionar_contato(self, contato):
-        self.contatos.append(contato)
+class Cachorro(Animal):
+    def emitir_som(self):
+        return "AuAu"
     
-    def listar_contato(self):
-        print(f"esses são seus conatos{self.contatos}:")
-        for contato in self.contatos:
-            print(contato)
-
-    def buscar_contato(self, nome):
-        for contato in self.contatos:
-            if contato.nome == nome:
-                return contato
-        return nome
+class Gato(Animal):
+    def emitir_som(self):
+        return "Miau"
     
-    def remover_contato(self, nome):
-        contato =  self.buscar_contato(nome)
-        if contato is not nome:
-            self.contatos.remove(contato)
-            print(f"Contato {nome} removido  com sucesso. ")
-        else:
-            print(f"Contanto {nome} não encontrado")
+cachorro = Cachorro()
+gato = Gato()
+
+print(cachorro.emitir_som())
+print(gato.emitir_som())
+
+
+
+
