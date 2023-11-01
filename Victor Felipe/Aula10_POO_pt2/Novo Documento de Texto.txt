@@ -1,0 +1,4 @@
+"""Projeto agenda, classe contato - nome, telefone e email*Atributos obrigatorios* e
+Classe agenda - Metodo construtor que recebe uma lista de contatos vazia. *Metodo -Adicionar contato,
+ lista contatos e buscar contatos, deletar contatos* 
+"""
