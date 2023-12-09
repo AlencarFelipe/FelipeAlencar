@@ -1,0 +1,27 @@
+Existem várias fontes onde você pode encontrar conjuntos de dados para praticar o uso do Pandas e a análise de dados em Python. Aqui estão algumas sugestões:
+
+1. **UCI Machine Learning Repository:**
+   - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php): Uma ampla coleção de conjuntos de dados de várias áreas, incluindo aprendizado de máquina e ciência de dados.
+
+2. **Kaggle:**
+   - [Kaggle Datasets](https://www.kaggle.com/datasets): Kaggle é uma plataforma de ciência de dados e aprendizado de máquina, e eles oferecem uma variedade de conjuntos de dados interessantes.
+
+3. **GitHub:**
+   - [Awesome Datasets on GitHub](https://github.com/awesomedata/awesome-public-datasets): Uma lista no GitHub que contém uma coleção de conjuntos de dados públicos.
+
+4. **Seaborn Datasets:**
+   - [Seaborn Datasets](https://github.com/mwaskom/seaborn-data): O Seaborn, uma biblioteca de visualização de dados em Python, vem com alguns conjuntos de dados integrados que são úteis para práticas.
+
+5. **Open Data Repositories:**
+   - Muitos governos e organizações disponibilizam conjuntos de dados abertos. Por exemplo, você pode procurar por repositórios de dados governamentais ou científicos.
+
+6. **Google Dataset Search:**
+   - [Google Dataset Search](https://datasetsearch.research.google.com/): Uma ferramenta do Google que permite encontrar conjuntos de dados em vários domínios.
+
+7. **AWS Public Datasets:**
+   - [AWS Public Datasets](https://registry.opendata.aws/): Conjuntos de dados públicos disponibilizados pela Amazon Web Services.
+
+8. **Data.gov:**
+   - [Data.gov](https://www.data.gov/): Um repositório de dados abertos do governo dos Estados Unidos.
+
+Lembre-se de que, ao usar conjuntos de dados, é importante respeitar os termos de uso e atribuir a fonte corretamente, se necessário. Esses recursos devem fornecer uma variedade de conjuntos de dados para ajudar você a praticar suas habilidades com o Pandas e análise de dados em Python.
